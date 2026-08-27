@@ -157,44 +157,6 @@ O dashboard permite realizar análises segmentadas através de filtros como:
 
 ---
 
-## 🧠 Competências demonstradas
-
-Este projeto demonstra conhecimentos em:
-
-**Data Analytics**
-
-* Análise exploratória;
-* Identificação de padrões;
-* Segmentação de dados;
-* Análise temporal;
-* Análise geográfica.
-
-**Business Intelligence**
-
-* Construção de dashboards;
-* Definição de KPIs;
-* Storytelling com dados;
-* Desenvolvimento de filtros e segmentações;
-* Construção de visualizações interativas.
-
-**Power BI**
-
-* Modelagem de dados;
-* DAX;
-* Power Query;
-* Criação de medidas;
-* Design e organização de dashboards.
-
-**Risk Analytics**
-
-* Análise de fraude;
-* Chargeback;
-* Taxa de estorno;
-* Segmentação por faixa de valor;
-* Identificação de hotspots de risco.
-
----
-
 ## 📁 Estrutura do repositório
 
 ```text
