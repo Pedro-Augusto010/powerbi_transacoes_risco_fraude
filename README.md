@@ -145,28 +145,10 @@ O dashboard permite realizar análises segmentadas através de filtros como:
 
 ---
 
-## 🗺️ Insights explorados
-
-O dashboard foi construído para permitir a identificação de perguntas estratégicas como:
-
-* Qual canal concentra o maior volume financeiro?
-* Quais canais apresentam maior taxa de fraude?
-* Existe relação entre valor da transação e ocorrência de fraude?
-* Quais estados ou cidades apresentam maior concentração de eventos de risco?
-* Em quais horários ocorrem mais falhas e pendências?
-* Quais dias da semana apresentam maior volume de problemas operacionais?
-* Quais merchants concentram maior valor transacionado?
-* Quais merchants apresentam maiores taxas de estorno?
-* Quais MCCs possuem maior ticket médio?
-* Quais subcategorias apresentam maior utilização de parcelamento?
-* Como volume, valor e risco se comportam ao longo do tempo?
-
----
-
 ## 🛠️ Tecnologias utilizadas
 
 * **Power BI**
-* * **Excel**
+* **Excel**
 * **Power Query**
 * **DAX**
 * **Modelagem de dados**
