@@ -1,6 +1,6 @@
 # 📊 Análise de Transações, Risco e Fraude — Power BI
 
-> Dashboard analítico desenvolvido em **Power BI** para exploração de transações financeiras, comportamento por canal, risco/fraude, parcelamento e indicadores operacionais.
+> Dashboard analítico desenvolvido em **Power BI** para exploração de transações financeiras, comportamento por canal, risco/fraude, parcelamento e indicadores operacionais. 
 
 ---
 
