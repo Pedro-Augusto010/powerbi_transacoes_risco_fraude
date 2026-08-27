@@ -5,7 +5,7 @@
 ---
 
 ## 🎯 Sobre o projeto
-
+ 
 Este projeto apresenta uma análise exploratória e estratégica de um conjunto de **transações financeiras**, utilizando o Power BI para transformar dados transacionais em indicadores capazes de apoiar a tomada de decisão.
 
 A análise foi estruturada para responder perguntas relacionadas a:
