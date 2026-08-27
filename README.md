@@ -151,7 +151,7 @@ O dashboard foi construído para permitir a identificação de perguntas estrat�
 
 * Qual canal concentra o maior volume financeiro?
 * Quais canais apresentam maior taxa de fraude?
-* Existe relação entre **valor da transação** e ocorrência de fraude?
+* Existe relação entre valor da transação e ocorrência de fraude?
 * Quais estados ou cidades apresentam maior concentração de eventos de risco?
 * Em quais horários ocorrem mais falhas e pendências?
 * Quais dias da semana apresentam maior volume de problemas operacionais?
@@ -166,6 +166,7 @@ O dashboard foi construído para permitir a identificação de perguntas estrat�
 ## 🛠️ Tecnologias utilizadas
 
 * **Power BI**
+* * **Excel**
 * **Power Query**
 * **DAX**
 * **Modelagem de dados**
@@ -212,36 +213,10 @@ Este projeto demonstra conhecimentos em:
 
 ---
 
-## 🖥️ Dashboard
-
-### Visão Executiva
-
-![Dashboard — Visão Executiva](images/dashboard_executivo.png)
-
-### Comportamento por Canal
-
-![Dashboard — Canais](images/dashboard_canais.png)
-
-### Risco e Fraude
-
-![Dashboard — Risco e Fraude](images/dashboard_risco.png)
-
-### Cartão e Parcelamento
-
-![Dashboard — Parcelamento](images/dashboard_parcelamento.png)
-
-### Análise Operacional
-
-![Dashboard — Operacional](images/dashboard_operacional.png)
-
-> **Nota:** substitua os caminhos acima pelos nomes das imagens exportadas do seu Power BI.
-
----
-
 ## 📁 Estrutura do repositório
 
 ```text
-📦 projeto-power-bi
+📦 powerbi_transacoes_risco_fraude
 │
 ├── 📊 dashboard/
 │   └── dashboard.pbix
@@ -260,22 +235,3 @@ Este projeto demonstra conhecimentos em:
 ```
 
 ---
-
-## 🚀 Objetivo do projeto
-
-Mais do que apresentar indicadores, o projeto busca demonstrar como dados transacionais podem ser transformados em **informações acionáveis para negócio**, conectando performance financeira, comportamento por canal, eficiência operacional e gestão de risco.
-
-O dashboard foi desenvolvido com foco em **clareza visual, interatividade e capacidade de exploração dos dados**, permitindo que diferentes perspectivas sejam analisadas a partir de filtros e segmentações.
-
----
-
-## 👨‍💻 Projeto
-
-**Análise de Transações, Risco e Fraude**
-
-**Ferramenta principal:** Power BI
-**Área:** Data Analytics | Business Intelligence | Risk Analytics
-
----
-
-⭐ Se este projeto foi útil ou interessante, considere deixar uma estrela no repositório!
