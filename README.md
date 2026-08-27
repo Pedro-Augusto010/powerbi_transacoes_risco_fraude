@@ -162,18 +162,15 @@ O dashboard permite realizar análises segmentadas através de filtros como:
 ```text
 📦 powerbi_transacoes_risco_fraude
 │
-├── 📊 dashboard/
-│   └── dashboard.pbix
+├── 📊 dashboard_em_pdf/
+│   └── Analise BI - Universal Bank.pdf
 │
-├── 🖼️ images/
-│   ├── dashboard_executivo.png
-│   ├── dashboard_canais.png
-│   ├── dashboard_risco.png
-│   ├── dashboard_parcelamento.png
-│   └── dashboard_operacional.png
+├── 🖼️ dashboard_pbix/
+│   ├── transacoes_risco_fraude.pbix
 │
 ├── 📂 data/
-│   └── dataset.csv
+│   └── Dicionario de Dados.txt
+│   └── bank_transactions_10000_br.csv
 │
 └── 📄 README.md
 ```
