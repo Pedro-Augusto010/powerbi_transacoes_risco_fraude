@@ -1,0 +1,19 @@
+Dicionário de Dados 
+transaction_id: texto — identificador único.
+transaction_datetime: datetime — data/hora (UTC-03).
+account_id, customer_id: texto — IDs sintéticos.
+channel: texto — canal de origem da transação.
+type: texto — “Débito” ou “Crédito”.
+status: texto — “Aprovada”, “Pendente”, “Falha”, “Estornada”.
+category / subcategory: texto — segmento e subsegmento de gasto/receita.
+merchant: texto — nome comercial sintético/plausível.
+mcc: número — Merchant Category Code (pode ser nulo).
+amount_brl: número — valor da transação em BRL.
+currency: texto — “BRL”.
+installments: número inteiro — quantidade de parcelas (1 se à vista).
+card_present: boolean/nulo — True/False para cartão presente; nulo se não for cartão.
+authorization_code: texto/nulo — código de autorização em cartões aprovados.
+city, state, country: texto — localização do estabelecimento/lançamento.
+is_fraud: boolean — flag de fraude (sintética).
+has_chargeback: boolean — houve chargeback/estorno operacional.
+balance_after_brl: número — saldo após a transação (sintético).
